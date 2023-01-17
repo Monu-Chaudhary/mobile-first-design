@@ -1,0 +1,28 @@
+ body {
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center
+    }
+
+    section {
+        height: 600px;
+        width:350px;
+        border: 1px solid rgba(59, 57, 57, 0.348);
+        align-items:center;
+        justify-content:center;
+    }
+
+    article {
+        border: 1px solid #ccc;
+        margin: 20px;
+        text-align: center;
+    }
+
+    #small {
+        background-color: #eee;
+    }
+
+    #big {
+        padding: 70px;
+    }
